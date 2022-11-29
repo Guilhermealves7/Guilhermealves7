@@ -15,7 +15,7 @@
   <img  align="center" alt="Java-Gui" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Gui-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img  align="center" alt="Gui-code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img  align="center" alt="Gui-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/TypeScript-original.svg" />
+  <img aling='center' alt="Js-Gui" heigth = "30" width= "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   
         
           
