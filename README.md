@@ -1,4 +1,4 @@
-### Iae, eu sou o Gui :)!
+### Iae, eu sou o Guilherme :)!
 
 <div align="center">
   <a href="https://github.com/Guilhermealves7">
