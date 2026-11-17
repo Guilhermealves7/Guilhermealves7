@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<defs>
+  <linearGradient id="dragonGrad" x1="0" y1="0" x2="0.4" y2="1">
+    <stop offset="0" stop-color="#9fd3ff"/>
+    <stop offset="0.45" stop-color="#268BEE"/>
+    <stop offset="1" stop-color="#1b4f8f"/>
+  </linearGradient>
+  <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    .mono { font-family: 'DejaVu Sans Mono', 'Fira Code', Consolas, 'Courier New', monospace; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+</defs>
+<rect width="1000" height="650" rx="14" fill="#0b0e14"/>
+<text x="500.0" y="44" text-anchor="middle" class="mono" font-size="30" font-weight="bold" letter-spacing="4" fill="#ff79c6" filter="url(#glow)">FULL STACK DEVELOPER</text>
+<rect x="20" y="64" width="960" height="566" rx="12" fill="#0f1420" stroke="#268BEE" stroke-opacity="0.55" stroke-width="1.5"/>
+<path d="M20 98 V76 a12 12 0 0 1 12 -12 H968 a12 12 0 0 1 12 12 V98 Z" fill="#161c2b"/>
+<circle cx="42" cy="81.0" r="6" fill="#ff5f56"/>
+<circle cx="62" cy="81.0" r="6" fill="#ffbd2e"/>
+<circle cx="82" cy="81.0" r="6" fill="#27c93f"/>
+<text x="500.0" y="85.5" text-anchor="middle" class="mono" font-size="12" fill="#565f89">guilherme@kali: ~</text>
+<g class="mono" font-size="7.6" font-weight="bold" fill="url(#dragonGrad)" xml:space="preserve">
+<text x="34" y="137.6" xml:space="preserve">                                                                              .+=</text>
+<text x="34" y="147.2" xml:space="preserve">                                                                            =x%X.</text>
+<text x="34" y="156.8" xml:space="preserve">                                                                         -+#%@x</text>
+<text x="34" y="166.4" xml:space="preserve">                                                         -=           :+X%%##x</text>
+<text x="34" y="176.0" xml:space="preserve">                                                        =#-         :*%%#X#%x</text>
+<text x="34" y="185.6" xml:space="preserve">                                                       *%X.       :*%%##%%%*</text>
+<text x="34" y="195.2" xml:space="preserve">                                                     :X%#x      :x%###%#%%+</text>
+<text x="34" y="204.8" xml:space="preserve">                                                     x%#%+    .x###%%#%%#-</text>
+<text x="34" y="214.4" xml:space="preserve">                                                    :####-   -#%%%#%%%%X.</text>
+<text x="34" y="224.0" xml:space="preserve">                                                    *%##X   +%%%%%%%%%*</text>
+<text x="34" y="233.6" xml:space="preserve">                                             .:=+*xX####X*+x%%%%%%%%#=</text>
+<text x="34" y="243.2" xml:space="preserve">                                        :=*xX##%%%%######%%######%%X.</text>
+<text x="34" y="252.8" xml:space="preserve">                                    :=*X#%%%@@@@@@@@%%%%%########%*</text>
+<text x="34" y="262.4" xml:space="preserve">                                .-*X#%%%%%%%#x*****xX%@@%%%#######X=:.........</text>
+<text x="34" y="272.0" xml:space="preserve">                            :-+x#%%%%%%###+:-+xx.-x*=:=x#########XXXxxXXxx*=-.</text>
+<text x="34" y="281.6" xml:space="preserve">                      .-=*xX#%%%%%#######- x%%%# :@@@%: x########XxxXX+-:.</text>
+<text x="34" y="291.2" xml:space="preserve">                .:=**xX%%%%%%####XXX#####+.=XX%# -@%#*.-X##X###X##XX#x</text>
+<text x="34" y="300.8" xml:space="preserve">            .=*x#####%%######XXXXXXXXXXXX#X+===+:=+=-=x######XXXXX#xxxx*+=-:.</text>
+<text x="34" y="310.4" xml:space="preserve">        .-+xXxX%%%####XX###########XX##XXX####XXXXXX####XXXXxxxxxx#XXxxxxxx*+=:.</text>
+<text x="34" y="320.0" xml:space="preserve">       .X#%#+:-X#####X#XXXXX###X#####XX#############xxxxxxxxxxxxxxX#x.</text>
+<text x="34" y="329.6" xml:space="preserve">        +%########XXX###########################XX##XxxxxxxxxxxxxxxX*:</text>
+<text x="34" y="339.2" xml:space="preserve">         +xX##%%%###X###XX##XxX########XXXXX###XXX##XxxxxxxxxxxxxxxxXXx*+=-.</text>
+<text x="34" y="348.8" xml:space="preserve">           .:-=+*xXX########XXXXX##XXXXXXX##########XXxxxxxxxxxxxxxxXXXXXX#+</text>
+<text x="34" y="358.4" xml:space="preserve">                ..-#=:+X**X#X#%%##%%%%%%%%%%%#############XXXXXxxxxxX#####=..</text>
+<text x="34" y="368.0" xml:space="preserve">                =x*x+==x-:-+..-+::++-=x*+*#xx###XXXxxXxx****xxxxxxxxx####=</text>
+<text x="34" y="377.6" xml:space="preserve">                 -+*xxx*xx****+++===-:-:..-:=-++*xXxxX#xxxxXXXXxxXXXxX##=</text>
+<text x="34" y="387.2" xml:space="preserve">                   .:-=**xxxxxxxxxxxxxxxxx******x********xxxxxXXXXXXxX#+</text>
+<text x="34" y="396.8" xml:space="preserve">                        .:=++***xxxx*********xxxx*******xxxxxxxxxxxxxxXx+-</text>
+<text x="34" y="406.4" xml:space="preserve">                              .:--=++***xx*****++*xxxxx*****xXXxxxxxXXX##Xx*+-</text>
+<text x="34" y="416.0" xml:space="preserve">                                      ..:::.::..:=*XXXXXXXXXxxxxxxxXXXXX######x.</text>
+<text x="34" y="425.6" xml:space="preserve">                                            ::-.--.+xxxxxxxxxXXxxxxxxXxX######=</text>
+<text x="34" y="435.2" xml:space="preserve">                                           -++*+--.:XxxxxxxxxXXXxxxXXXxxX####=</text>
+<text x="34" y="444.8" xml:space="preserve">                                           :.....  :xxxxxxxxxxxxxxxxXXXXX###+</text>
+<text x="34" y="454.4" xml:space="preserve">                                             .--: :*xxx*x**xXXxXxxxxxxxXXX#*</text>
+<text x="34" y="464.0" xml:space="preserve">                                             .--: .xXXXXXXxxXXXXXxxxxxXXXXx::</text>
+<text x="34" y="473.6" xml:space="preserve">                                             .:--:-*x**xxxxxxxxxXXXXxXXXXXx*-.</text>
+<text x="34" y="483.2" xml:space="preserve">                                           ::: :--+XXxxxxxxxxxxXXxxXXXxxxxX##X*=:</text>
+<text x="34" y="492.8" xml:space="preserve">                                            :---:=+xxxxxxxxxXXXXXXXXXXXxXXX######X</text>
+<text x="34" y="502.4" xml:space="preserve">                                            ::.:  *xxxxxxxxxxxxxxxxXXxXxxxxX######</text>
+<text x="34" y="512.0" xml:space="preserve">                                                 +XXXXXXxxxxxxXXXxxxxXxXXXxx#####=</text>
+<text x="34" y="521.6" xml:space="preserve">                                                =x******xxxxxxxXXXxxxxxXxXXXX###=</text>
+<text x="34" y="531.2" xml:space="preserve">                                            ::.-XXxxxxxxxxXxXxxxxXXXxXXxxxXxx##*</text>
+<text x="34" y="540.8" xml:space="preserve">                                            :.-xxxxxxxxxxxxxxXxxxxxxxXXXXxxxxX*</text>
+<text x="34" y="550.4" xml:space="preserve">                                             .*xxxxxxxxxxxxxxxxxXXXxxxxxxxxXxX*=:.</text>
+<text x="34" y="560.0" xml:space="preserve">                                             +xxxxxxxxxxxxxxXXxXXXXxxxxxxxxxxx###X</text>
+<text x="34" y="569.6" xml:space="preserve">                                            +Xxxxx****xxXxXxxXxxxxxxxxxXXXXXXXX###</text>
+<text x="34" y="579.2" xml:space="preserve">                                           -XxXXXXXxxXxxXXxxxXXXxxxXXXXXxxXxxxX###</text>
+<text x="34" y="588.8" xml:space="preserve">                                          .*******xxxxxxxxXXXXXXXxXXxXXXxxxxxxX###</text>
+<text x="34" y="598.4" xml:space="preserve">                                          *XXxxxxxxxxxXxxxXXXxxxXXXXxxxXXXXxxxx#X=</text>
+<text x="34" y="608.0" xml:space="preserve">                                         =x**xxxxxxxxxxxxxxxxxxxxxXxxxxxxxxxxxxX:</text>
+</g>
+<g class="mono" font-size="12.5">
+<text x="448" y="134.0" xml:space="preserve"><tspan fill="#50fa7b">guilherme</tspan><tspan fill="#c0caf5">@</tspan><tspan fill="#268BEE">kali</tspan><tspan fill="#c0caf5">:~$ </tspan><tspan fill="#bd93f9">neofetch</tspan></text>
+<text x="448" y="152.5" xml:space="preserve"><tspan fill="#565f89">────────────────────────────────────────────</tspan></text>
+<text x="448" y="171.0" xml:space="preserve" font-weight="bold"><tspan fill="#ff79c6">Perfil</tspan></text>
+<text x="448" y="189.5" xml:space="preserve"><tspan fill="#565f89">├─ </tspan><tspan fill="#7dcfff">Nome</tspan><tspan fill="#565f89"> .......... </tspan><tspan fill="#c0caf5">Guilherme Henrique Alves</tspan></text>
+<text x="448" y="208.0" xml:space="preserve"><tspan fill="#565f89">├─ </tspan><tspan fill="#7dcfff">Função</tspan><tspan fill="#565f89"> ........ </tspan><tspan fill="#c0caf5">Full Stack Developer</tspan></text>
+<text x="448" y="226.5" xml:space="preserve"><tspan fill="#565f89">├─ </tspan><tspan fill="#7dcfff">Formação</tspan><tspan fill="#565f89"> ...... </tspan><tspan fill="#c0caf5">IFAL · Maceió/AL</tspan></text>
+<text x="448" y="245.0" xml:space="preserve"><tspan fill="#565f89">└─ </tspan><tspan fill="#7dcfff">GitHub</tspan><tspan fill="#565f89"> ........ </tspan><tspan fill="#c0caf5">Guilhermealves7</tspan></text>
+<text x="448" y="282.0" xml:space="preserve" font-weight="bold"><tspan fill="#ff79c6">Skills</tspan></text>
+<text x="448" y="300.5" xml:space="preserve"><tspan fill="#565f89">├─ </tspan><tspan fill="#7dcfff">Linguagens</tspan><tspan fill="#565f89"> .... </tspan><tspan fill="#c0caf5">TypeScript · JavaScript · Ruby · Python</tspan></text>
+<text x="448" y="319.0" xml:space="preserve"><tspan fill="#565f89">├─ </tspan><tspan fill="#7dcfff">Frontend</tspan><tspan fill="#565f89"> ...... </tspan><tspan fill="#c0caf5">React · Next.js · Angular · Tailwind</tspan></text>
+<text x="448" y="337.5" xml:space="preserve"><tspan fill="#565f89">├─ </tspan><tspan fill="#7dcfff">Backend</tspan><tspan fill="#565f89"> ....... </tspan><tspan fill="#c0caf5">Node.js · Ruby · Java</tspan></text>
+<text x="448" y="356.0" xml:space="preserve"><tspan fill="#565f89">├─ </tspan><tspan fill="#7dcfff">Banco</tspan><tspan fill="#565f89"> ......... </tspan><tspan fill="#c0caf5">MySQL</tspan></text>
+<text x="448" y="374.5" xml:space="preserve"><tspan fill="#565f89">└─ </tspan><tspan fill="#7dcfff">Sistema</tspan><tspan fill="#565f89"> ....... </tspan><tspan fill="#c0caf5">Kali Linux</tspan></text>
+<text x="448" y="411.5" xml:space="preserve" font-weight="bold"><tspan fill="#ff79c6">Construindo agora</tspan></text>
+<text x="448" y="430.0" xml:space="preserve"><tspan fill="#565f89">├─ </tspan><tspan fill="#7dcfff">TRIA</tspan><tspan fill="#565f89"> .......... </tspan><tspan fill="#c0caf5">IA contra a desigualdade no ENEM</tspan></text>
+<text x="448" y="448.5" xml:space="preserve"><tspan fill="#565f89">├─ </tspan><tspan fill="#7dcfff">Educa Brazil</tspan><tspan fill="#565f89"> .. </tspan><tspan fill="#c0caf5">Sistema de gestão escolar</tspan></text>
+<text x="448" y="467.0" xml:space="preserve"><tspan fill="#565f89">└─ </tspan><tspan fill="#7dcfff">Teleterapia</tspan><tspan fill="#565f89"> ... </tspan><tspan fill="#c0caf5">Plataforma de telessaúde</tspan></text>
+<text x="448" y="504.0" xml:space="preserve" font-weight="bold"><tspan fill="#ff79c6">Interesses</tspan></text>
+<text x="448" y="522.5" xml:space="preserve"><tspan fill="#565f89">└─ </tspan><tspan fill="#c0caf5">Cybersecurity · Pentest · Linux · </tspan><tspan fill="#bd93f9">tudo</tspan></text>
+<rect x="448" y="549.0" width="24" height="14" rx="2" fill="#1a1b26"/>
+<rect x="474" y="549.0" width="24" height="14" rx="2" fill="#f7768e"/>
+<rect x="500" y="549.0" width="24" height="14" rx="2" fill="#50fa7b"/>
+<rect x="526" y="549.0" width="24" height="14" rx="2" fill="#e0af68"/>
+<rect x="552" y="549.0" width="24" height="14" rx="2" fill="#268BEE"/>
+<rect x="578" y="549.0" width="24" height="14" rx="2" fill="#bd93f9"/>
+<rect x="604" y="549.0" width="24" height="14" rx="2" fill="#7dcfff"/>
+<rect x="630" y="549.0" width="24" height="14" rx="2" fill="#c0caf5"/>
+<text x="448" y="589.0"><tspan fill="#50fa7b">guilherme</tspan><tspan fill="#c0caf5">@</tspan><tspan fill="#268BEE">kali</tspan><tspan fill="#c0caf5">:~$ </tspan></text>
+<rect class="cursor" x="583.54" y="577.0" width="8" height="15" fill="#c0caf5"/>
+</g>
+</svg>
